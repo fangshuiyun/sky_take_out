@@ -3,6 +3,27 @@ sky:
     driver-class-name: com.mysql.cj.jdbc.Driver
     host: localhost
     port: 3306
-    database: sky_take_out
-    username: root
-    password: root
+    database: "******"                         #数据库名称
+    username: "******"                         #用户名
+    password: "******"                         #密码
+  alioss:
+    endpoint: "******"             #阿里云地域网址
+    access-key-id: "******"            #阿里云账户id
+    access-key-secret: "******"  #阿里云密钥
+    bucket-name: "******"                   #阿里云仓库名称
+  redis:
+    host: localhost
+    port: 6379
+    password: "******"          #redis数据库密码
+    database: "******"          #redis数据库选择（0-15）
+  wechat:
+    appid: "******"             #申请注册的微信小程序的qppid
+    secret: "******"            #相应的密钥
+    mchid: "******"             #微信支付，企业资质以下
+    mchSerialNo: "******"
+    privateKeyFilePath: "******"
+    apiV3Key: "******"
+    weChatPayCertFilePath: "******"
+    notifyUrl: "******"               #内网穿透,微信支付
+    refundNotifyUrl: "******"
+
