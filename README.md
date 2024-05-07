@@ -6,9 +6,9 @@ BiliBili视频跳转：[苍穹外卖](https://www.bilibili.com/video/BV1TP411v7v
 这是一款为餐饮类企业定制的软件产品，分为管理端和用户端。实现用户端点单，管理端处理订单的简易外卖软件。<br>
 项目的整体架构分为前端和后端，开发模式为前后端分离开发模式：
 <div align=center><img src="./image/1.png" width="800"></div>
-<center>管理端</center>
+<p align="center">管理端</p>
 <div align=center><img src="./image/2.png" width="800"></div>
-<center>用户端</center>
+<p align="center">用户端</p>
 <div align=center><img src="./image/3.png" width="800"></div>
 
 # 技术选型
